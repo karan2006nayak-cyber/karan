@@ -1,0 +1,6 @@
+{
+  "name": "Secure Gallery",
+  "description": "Hide your private photos behind a secure biometric lock and encrypted folders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
